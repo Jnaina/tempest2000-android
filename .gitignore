@@ -1,0 +1,12 @@
+deps/
+.gradle/
+build/
+app/build/
+.cxx/
+local.properties
+*.apk
+app/src/main/assets/t2000.abs
+tools/icon_preview.png
+.idea/
+*.iml
+.DS_Store
